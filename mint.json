@@ -32,8 +32,8 @@
       "pages": ["introduction", "dictation"]
     },
     {
-      "group": "providers",
-      "pages": ["providers/openai", "providers/deepgram"]
+      "group": "Providers",
+      "pages": ["providers/whisper", "providers/openai", "providers/deepgram"]
     }
   ],
   "footerSocials": {
