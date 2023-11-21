@@ -29,7 +29,7 @@
   "navigation": [
     {
       "group": "Guide",
-      "pages": ["introduction", "dictation"]
+      "pages": ["introduction", "getting-started", "dictation"]
     },
     {
       "group": "Providers",
